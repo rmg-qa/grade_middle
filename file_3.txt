@@ -1,1 +1,1 @@
-test delete atwinta
+test DELETE atwinta
